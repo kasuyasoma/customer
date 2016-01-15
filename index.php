@@ -23,7 +23,7 @@ if (empty($_SESSION['id']))
     <textarea name="message" cols="30" rows="5"></textarea>
     <input type="submit" value="投稿する">
   </form>
-  <hr>
-  <h1>投稿されたメッセージ</h1>
+  <!--<hr>-->
+  <!--<h1>投稿されたメッセージ</h1>-->
 </body>
 </html>
