@@ -18,8 +18,7 @@ if (empty($_SESSION['id']))
   <title>検索・一覧画面</title>
 </head>
 <body>
-  <h1>検索・一覧画面</h1><!-- 会員制掲示板 -->
-  <!-- <p>一言どうぞ</p> -->
+  <h1>検索・一覧画面</h1>
   <form action="" method="post">
     <textarea name="message" cols="30" rows="5"></textarea>
     <input type="submit" value="投稿する">
